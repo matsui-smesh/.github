@@ -4,7 +4,7 @@ title: "[BUG] "
 labels: ["bug"]
 assignees: []
 projects:
-  - "matsui-smesh/3"
+  - "orgs/matsui-smesh/1"
 body:
   - type: markdown
     attributes:
