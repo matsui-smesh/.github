@@ -4,7 +4,7 @@ about: 新機能のアイデアを提案
 title: "[FEATURE] "
 labels: enhancement
 assignees: ''
-projects: ["matsui-smesh/1"]
+projects: ["https://github.com/users/matsui-smesh/projects/1"]
 ---
 
 ## 🎯 機能の概要
