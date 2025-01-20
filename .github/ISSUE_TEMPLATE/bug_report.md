@@ -4,7 +4,7 @@ about: バグ報告用のテンプレート
 title: "[BUG] "
 labels: bug
 assignees: ''
-projects: ["users/matsui-smesh/1"]
+projects: ["users/matsui-smesh/projects/1"]
 ---
 
 ## 🐛 バグの内容
