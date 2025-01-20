@@ -4,7 +4,7 @@ about: プロジェクト管理用のテンプレート
 title: "[PROJECT] "
 labels: project
 assignees: ''
-projects: ["matsui-smesh/1"]
+projects: ["matsui-smesh/3"]
 ---
 
 ## 📊 プロジェクト概要
