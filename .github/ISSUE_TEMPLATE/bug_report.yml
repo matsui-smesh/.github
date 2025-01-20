@@ -1,5 +1,5 @@
-name: バグ報告
-description: バグ報告用のテンプレート
+name: バグ報告です
+description: バグ報告用のテンプレートです
 title: "[BUG] "
 labels: ["bug"]
 assignees: []
