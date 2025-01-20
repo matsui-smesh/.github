@@ -1,10 +1,10 @@
-name: バグ報告です
-description: バグ報告用のテンプレートです
+name: バグ報告
+description: バグ報告用のテンプレート
 title: "[BUG] "
 labels: ["bug"]
 assignees: []
 projects:
-  - "matsui-smesh/3"
+  - "matsui-smesh/1"
 body:
   - type: markdown
     attributes:
